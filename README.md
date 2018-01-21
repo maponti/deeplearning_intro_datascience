@@ -1,5 +1,5 @@
 # Material para o minicurso *Deep Learning*	
-*Moacir A. Ponti [(website)}](http://www.icmc.usp.br/~moacir)*
+*Moacir A. Ponti [(website)](http://www.icmc.usp.br/~moacir)*
 
 Introduction to Data Science Bootcamp @ FGV, RJ - Janeiro de 2018
 
