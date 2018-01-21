@@ -1,9 +1,8 @@
-## Codigo exemplo para a Escola Avancada de Matematica, minicurso Deep Learning
+## Codigo exemplo para a Escola de Matematica Aplicada, minicurso Deep Learning
 ##
 ## Exemplo de rede neural convolucional profunda com Batch normalization
 ##
 ## Moacir A. Ponti (ICMC/USP), Janeiro de 2018
-##
 ## Referencia: Everything you wanted to know about Deep Learning for Computer Vision but were afraid to ask. Moacir A. Ponti, Leonardo S. F. Ribeiro, Tiago S. Nazare, Tu Bui and John Collomosse
 ##
 import tensorflow as tf

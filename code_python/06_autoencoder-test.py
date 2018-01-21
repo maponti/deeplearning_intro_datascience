@@ -1,4 +1,4 @@
-## Codigo exemplo para a Escola Avancada de Matematica, minicurso Deep Learning
+## Codigo exemplo para a Escola de Matematica Aplicada, minicurso Deep Learning
 ##
 ## Exemplo de autoencoder, reconstruindo imagens novas, nao MNIST
 ## Moacir A. Ponti (ICMC/USP), Janeiro de 2018
