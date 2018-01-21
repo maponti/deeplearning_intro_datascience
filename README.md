@@ -19,7 +19,7 @@ Esse repositório está organizado em três pastas:
 	+ [DeepNetwork Notebook](./notebooks/02_DeepNetwork.ipynb)
 	+ [DeepNetwork Python Code](./code_python/02_deepdensenet.py)
 3. Rede neural com camada convolucional e demonstração do uso de dropout (deep convolutional network):
-	+ [DeepConvNetwork Python Code](./notebooks/03_deepconvnet.py)
+	+ [DeepConvNetwork Python Code](./code_python/03_deepconvnet.py)
 4. Rede neural com camada convolucional e dropout, inclunido batch normalization (deep convolutional network with batch normalization):
 	+ [DeepConvNetwork BN Python Code](./code_python/04_deepconvnet_bn.py)
 5. Autoencoder com uma camada codificadora e uma camada decodificadora (autoencoder), no formato:
