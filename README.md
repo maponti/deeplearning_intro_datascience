@@ -2,7 +2,7 @@
 *Moacir A. Ponti [(website)](http://www.icmc.usp.br/~moacir)*
 
 ### Versões antigas
-* [v1.2017](./v1_2017-10): código e material dos cursos de 2017/2-2018/1
+* [v1.2017](./previous_versions/v1_2017): código e material dos cursos de 2017/2-2018/1
 
 ### Organização 
 Esse repositório está organizado em três pastas:
@@ -12,12 +12,14 @@ Esse repositório está organizado em três pastas:
 
 ### Índice do conteúdo
 0. [Tensorflow básico em modo eager](./notebooks/00_tensorflow_basics-eager.ipynb)
-1. Rede neural com camadas densas, no formato ![dnn](http://mathurl.com/yc9lrxbn.png):
+1. Rede neural com camadas densas, no formato
+ ![dnn](http://mathurl.com/yc9lrxbn.png):
 	+ [Multilayer Perceptron (MLP)](./notebooks/01_deep_network_mlp.ipynb)
 2. Rede neural convolucional:
 	+ [Convolutional Neural Network (CNN)](./notebooks/02_convolutional_network.ipynb)
-3. Autoencoder com camadas densas no formato ![ae](http://mathurl.com/y9mjn2cg.png):
-	+ [Deep Autoencoder](./notebooks/03_autoencoder.ipynb)
+3. Autoencoder com camadas densas no formato
+ ![ae](http://mathurl.com/y9mjn2cg.png):
+	+ [Deep Autoencoder (Deep AE)](./notebooks/03_autoencoder.ipynb)
 
 ### Materiais extras, Slides, Papers, etc.:
 * [Capítulo de Livro "Como funciona o Deep Learning"](https://arxiv.org/abs/1806.07908)
