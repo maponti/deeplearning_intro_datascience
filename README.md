@@ -21,6 +21,17 @@ Esse repositório está organizado em três pastas:
  ![ae](http://mathurl.com/y9mjn2cg.png):
 	+ [Deep Autoencoder (Deep AE)](./notebooks/03_autoencoder.ipynb)
 
+4. Autoencoder convolucional com uso das características em classificador externo:
+	+ [Conv. Deep Autoencoder (Conv Deep AE)](./notebooks/04_conv_autoencoder.ipynb)
+
+5. Fine-tuning a partir de uma rede pré-treinada:
+	+ [Pretrained CNN finetuning](./notebooks/05_pretrained_finetuning.ipynb)
+
+6. Rede LSTM para predição de série temporal:
+	+ [Long Short Term Memory Network (LSTM)](./notebooks/06_lstm_prediction.ipynb)
+
+
+
 ### Materiais extras, Slides, Papers, etc.:
 * [Capítulo de Livro "Como funciona o Deep Learning"](https://arxiv.org/abs/1806.07908)
 * [Artigo Tutorial Deep Learning em Visão Computacional](http://www.icmc.usp.br/pessoas/moacir/p17sibgrapi-tutorial/2017-SIBGRAPI_Tutorial-Survey_Paper-Deep_Learning_for_Computer_Vision.pdf)
