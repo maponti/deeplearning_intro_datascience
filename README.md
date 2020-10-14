@@ -12,6 +12,8 @@ Esse repositório está organizado em três pastas:
 ### Minicurso "Deep Learning: unidades de processamento densa, convolucional, recorrente, e estratégias de transferência de aprendizado"
 #### da 4.a Escola Avançada de Big Data Analysis
 
+0. Slides
+	+ [Deep Learning e unidades de processamento](./slides/eabda-deeplearning_moacir_p1.pdf)
 1. Redes neurais densas e convolucionais
 	+ [Convolutional Neural Network (CNN)](./notebooks/eabda_1_densa_conv.ipynb)
 2. Redes neurais recorrentes
